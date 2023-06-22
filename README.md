@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TamHo
-- 🌱 I’m an aspiring Bioinformatician. Currently utilizing my GitHub page to document my learning progress. 
 - 📫 How to reach me: email = tam.db.ho@gmail.com
 
 <!---
